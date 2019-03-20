@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 870629f9a0dd6054cac1d62646d4dec1
+timeCreated: 1496120666
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Presidents of the United States of America
+  fontNames:
+  - Presidents of the United States of America
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
